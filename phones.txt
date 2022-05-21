@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
  1)iphone 11
  2)iphone 12
 3)xiaomi p20
 4)samsung s22
+5) xiaomi p40
+6) oppo n100
 
