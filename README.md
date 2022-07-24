@@ -1,1 +1,1 @@
-# Course and other
+# Course and other staff
